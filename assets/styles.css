@@ -48,7 +48,7 @@ input, button, textarea, select {
 /*
   8. Avoid text overflows
 */
-p, h1, h2, h3, h4, h5, h6 {
+p, h1, h2, h3, h4, h5, h6, footer {
   overflow-wrap: break-word;
   font-family: 'Figtree', sans-serif;
 }
@@ -142,12 +142,22 @@ img {
     font-weight: 800;
 }
 
-.attribution {
+/* .attribution {
     margin: 30px;
-}
+} */
 
 .row-learn {
     align-items: center;
     display: flex;
     justify-content: flex-start;
+}
+
+footer {
+    background-color: hsl(47, 88%, 63%);
+    text-align: center;
+}
+
+.footer-sentence {
+  margin: 0;
+  padding: 0;
 }
