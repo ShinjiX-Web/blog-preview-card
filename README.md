@@ -43,6 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website Updating - [ShinjiX-Web](hhttps://devserviceph.com)
+- Website Updating - [ShinjiX-Web](https://devserviceph.com)
 - Frontend Mentor - [@ShinjiX-Web](https://www.frontendmentor.io/profile/ShinjiX-Web)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
