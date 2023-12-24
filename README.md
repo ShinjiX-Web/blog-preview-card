@@ -7,7 +7,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
   - [Screenshot](/design/Challenge%20Blog%20Card.png)
-  - [Links](#links)s
+  - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
 
